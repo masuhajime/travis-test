@@ -1,0 +1,20 @@
+{
+	"name": "travistest",
+	"version": "1.0.0",
+	"description": "aaa",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"doc": "echo \"doc\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/masuhajime/travis-test.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/masuhajime/travis-test/issues"
+	},
+	"homepage": "https://github.com/masuhajime/travis-test#readme"
+}
